@@ -1,0 +1,16 @@
+C:\Users\glab\Documents\do while switch\do while switch\bin\Debug\do while switch.exe.config
+C:\Users\glab\Documents\do while switch\do while switch\obj\Debug\do while switch.csprojResolveAssemblyReference.cache
+C:\Users\glab\Documents\do while switch\do while switch\bin\Debug\do while switch.exe
+C:\Users\glab\Documents\do while switch\do while switch\bin\Debug\do while switch.pdb
+C:\Users\glab\Documents\do while switch\do while switch\obj\Debug\do while switch.exe
+C:\Users\glab\Documents\do while switch\do while switch\obj\Debug\do while switch.pdb
+F:\do while switch\do while switch\bin\Debug\do while switch.exe.config
+F:\do while switch\do while switch\obj\Debug\do while switch.exe
+F:\do while switch\do while switch\obj\Debug\do while switch.pdb
+F:\do while switch\do while switch\bin\Debug\do while switch.exe
+F:\do while switch\do while switch\bin\Debug\do while switch.pdb
+F:\do while switch\do while switch\obj\Debug\do while switch.csprojResolveAssemblyReference.cache
+F:\uni work\PAF-KEIT\pf lec\do while switch\do while switch\bin\Debug\do while switch.exe.config
+F:\uni work\PAF-KEIT\pf lec\do while switch\do while switch\obj\Debug\do while switch.exe
+F:\uni work\PAF-KEIT\pf lec\do while switch\do while switch\obj\Debug\do while switch.pdb
+F:\uni work\PAF-KEIT\pf lec\do while switch\do while switch\obj\Debug\do while switch.csprojResolveAssemblyReference.cache
